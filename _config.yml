@@ -25,26 +25,26 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hirst.sam.j@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+ # academia         : # URL
+ # arxiv            : # URL - Update with the correct link to your profile
+ # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # inspire-hep      : # URL
+ # impactstory      : # URL
+  orcid            : "0000-0002-4676-372X"
+ # semantic         : # URL
+ # ssrn             : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # researchgate     : # URL
+ # scopus           : # URL
+ # zotero           : # URL
 
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
